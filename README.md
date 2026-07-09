@@ -17,6 +17,9 @@ Based on our analysis of the dataset, we concluded the following:
 * **The Displacement Effect:** Time spent on Netflix (r = -0.172) and social media (r = -0.167) showed the strongest negative correlations with exam scores, actively cannibalizing study and sleep time.
 * **Statistical Certainty:** An independent samples T-Test resulted in a p-value of 8.47e-126, proving with near-absolute certainty that the performance advantage of the high-study group is genuine.
 
+## 👤 My Contribution
+Led the statistical validation (independent T-Test) and correlation analysis; co-wrote the final report.
+
 ## 👨‍💻 Team Members
 * Wai Yan Lynn 
 * Pyae Sone 
